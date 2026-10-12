@@ -2,3 +2,8 @@ email,bookId,bookTitle
 put@gmail.com,1,เจ้าชายน้อย
 putnomu123@gmail.com,1,เจ้าชายน้อย
 aomsin@gmail.com,4,Story of 67
+<<<<<<< Updated upstream:KU GoodBook_v2/data/favorites.csv
+=======
+palm@gmail.com,4,Story of 67
+1,7,เดอะฮอบบิท
+>>>>>>> Stashed changes:data/favorites.csv
